@@ -142,6 +142,6 @@
 > チームビルディングの一環として、チームで決めて欲しいことがあります。  
 > ミッションとルールです。次章でお話します。
 
-[前の章](team_review.md)
-[次の章](mission.md)  
+[前の章](team_review.md)  
+[次の章](team_mission.md)  
 [事前学習トップに戻る](../../pre_learning/index.md)  

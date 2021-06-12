@@ -35,6 +35,6 @@ LED-Campでは多くの「合意形成しなければならないシーン」が
 
 [回答フォーム（別ウィンドウが開きます）](https://docs.google.com/forms/d/e/1FAIpQLSfrG_xOTFsbQ8zIqKyVxoaWl_OFgcDqYt00OMxd6QADaA_bWA/viewform?usp=sf_link)
 
-[前の章](team_mission.md)
+[前の章](team_mission.md)  
 [次の章](team_conclude.md)  
 [事前学習トップに戻る](../../pre_learning/index.md)  

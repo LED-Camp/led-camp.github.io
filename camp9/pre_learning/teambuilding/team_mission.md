@@ -93,6 +93,6 @@
 > いよいよ、このテキストも終わりが近付いてきました。
 > 私からみなさんにお願いがあります。
 
-[前の章](team_whatsteam.md)
+[前の章](team_whatsteam.md)  
 [次の章](team_consensus.md)  
 [事前学習トップに戻る](../../pre_learning/index.md)  

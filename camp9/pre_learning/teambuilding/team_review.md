@@ -194,6 +194,6 @@ YWT
 > 「ふりかえり」と「分かち合い」で、より良い自己紹介ができるようになりました。  
 > 次は「チーム」について考えてみましょう。  
 
-[前の章](team_introwork.md)
+[前の章](team_introwork.md)  
 [次の章](team_whatsteam.md)  
 [事前学習トップに戻る](../../pre_learning/index.md)  
