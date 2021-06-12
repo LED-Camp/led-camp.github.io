@@ -15,7 +15,7 @@
   今回のスプリントのふりかえりと次の改善策を検討
 
 <center>
-<img src="../pic/scrum_flow.png">
+<img src="pic/scrum_flow.png">
 </center>
 
 それでは、各イベントを詳しく学んでいきましょう。
@@ -28,7 +28,7 @@
 その1：スプリント内に何を開発するか（プロダクトバックログから選択）
 
 <center>
-<img src="../pic/pbacklog.png" width="80%">
+<img src="pic/pbacklog.png" width="80%">
 </center>
 
 プロダクトバックログから、今回のスプリントで何を完了させるか(スプリントゴール)を決めます。そのために、優先順位が必要になるので、プロダクトバックログに価値と見積もりをつけていきましょう。価値は数字が大きければ大きいほど重要度が高く、見積もりは大きいほど作業量が多くなります。
@@ -53,7 +53,7 @@
 ここで重要になるのが、タスクがどのくらいの時間で完了するか、そして、完了の定義です。これはチーム全体で共有が必要です。
 
 <center>
-<img src="../pic/sbacklog.png" width="80%">
+<img src="pic/sbacklog.png" width="80%">
 </center>
 
 ### 実装
@@ -64,7 +64,7 @@
 ### デイリースクラム
 
 <center>
-<img src="../pic/taskboard.png" width="80%">
+<img src="pic/taskboard.png" width="80%">
 </center>
 
 実装期間中、問題が浮上したり、認識のすれ違いが発生したりする可能性があります。
@@ -87,7 +87,7 @@
 
 
 <center>
-<img src="../pic/kpt.png" width="80%">
+<img src="pic/kpt.png" width="80%">
 </center>
 
 スプリントレトロスペクティブでは次のスプリントの改善計画を立てるために行うふりかえりのイベントです。
@@ -111,14 +111,14 @@ Scrumではここまで紹介した４種類のイベントを反復しつつ開
 スプリント毎のプロダクトバックログの難度の合計の見積りと実績をプロットしたもの
 
 <center>
-<img src="../pic/reversechart.png" width="80%">
+<img src="pic/reversechart.png" width="80%">
 </center>
 
 **B. スプリントバーンダウンチャート：スプリントの進捗を見える化**
 スプリント毎に残りタスクの見積り時間において作業見積りと実績をプロットしたもの
 
 <center>
-<img src="../pic/sprintchart.png" width="80%">
+<img src="pic/sprintchart.png" width="80%">
 </center>
 
 

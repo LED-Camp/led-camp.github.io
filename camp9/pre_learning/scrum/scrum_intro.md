@@ -8,10 +8,10 @@
 しています。アジャイル開発手法とは、近年多くの企業が導入している開発スタイルの1つで、よくウォーターフォール開発と比較されます。下の図と共に両者の違いを見てみましょう。
 
 **ウォータフォール式**
-<img src="../pic/waterfall.png">
+<img src="pic/waterfall.png">
 
 **アジャイル式**
-<img src="../pic/agile.png">
+<img src="pic/agile.png">
 
 
 ### ウォータフォール開発
