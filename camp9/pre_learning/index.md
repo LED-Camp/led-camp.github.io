@@ -1,8 +1,6 @@
 # Camp9 事前学習ページ
 
-## 学習コンテンツ
-
-### チームビルディングの理論と実践&合意形成
+## チームビルディングの理論と実践&合意形成
 1. [はじめに](teambuilding/team_intro.md)
 2. [自己紹介ワーク](teambuilding/team_introwork.md)
 3. [「ふりかえり」と「分かち合い」](teambuilding/team_review.md)
@@ -11,7 +9,7 @@
 6. [合意形成](teambuilding/team_consensus.md)
 7. [おわりに](teambuilding/team_conclude.md)
 
-### みんなでScrum!
+## みんなでScrum!
 1. [はじめに](scrum/scrum_intro.md)
 2. [Scrumとは](scrum/scrum_overview.md)
 3. [Scrumを用いたチーム開発](scrum/scrum_howto.md)
