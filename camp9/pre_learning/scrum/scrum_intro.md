@@ -44,4 +44,5 @@
 - [5] Jonathan Rasmusson著, 西村直人・角谷慎太郎監訳, 近藤修平・角掛拓未訳 (2011), 「アジャイルサムライ」, オーム社
 - [6] 西村直人・永瀬美穂・吉羽龍太郎 (2013), 「SCRUM BOOT CAMP THE BOOK」, 翔泳社
 
-[次の章](scrum_overview.md)
+[次の章](scrum_overview.md)  
+[事前学習トップに戻る](../../index.md)  

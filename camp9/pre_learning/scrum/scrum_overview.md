@@ -80,6 +80,6 @@
 - 開発チーム
   - 実際に開発を行う人。
 
-[前の章](scrum_intro.md)
-
-[次の章](scrum_howto_1.md)
+[前の章](scrum_intro.md)  
+[次の章](scrum_howto.md)  
+[事前学習トップに戻る](../../index.md)  

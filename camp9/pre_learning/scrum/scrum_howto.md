@@ -122,6 +122,6 @@ Scrumではここまで紹介した４種類のイベントを反復しつつ開
 </center>
 
 
-[前の章](scrum_overview.md)
-
-[次の章](scrum_example.md)
+[前の章](scrum_overview.md)  
+[次の章](scrum_example.md)  
+[事前学習トップに戻る](../../index.md)  
