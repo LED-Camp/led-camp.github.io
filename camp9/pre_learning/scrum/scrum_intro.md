@@ -45,4 +45,4 @@
 - [6] 西村直人・永瀬美穂・吉羽龍太郎 (2013), 「SCRUM BOOT CAMP THE BOOK」, 翔泳社
 
 [次の章](scrum_overview.md)  
-[事前学習トップに戻る](../../index.md)  
+[事前学習トップに戻る](../../pre_learning/index.md)  

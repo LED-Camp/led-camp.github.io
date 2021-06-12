@@ -82,4 +82,4 @@
 
 [前の章](scrum_intro.md)  
 [次の章](scrum_howto.md)  
-[事前学習トップに戻る](../../index.md)  
+[事前学習トップに戻る](../../pre_learning/index.md)  
