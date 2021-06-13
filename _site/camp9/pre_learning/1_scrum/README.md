@@ -1,2 +1,0 @@
-# みんなでScrum
-source: `{{ page.path }}`

@@ -11,10 +11,10 @@ theme: jekyll-rtd-theme
 readme_index:
   with_frontmatter: true
 
-# plugins:
-#   - jemoji
-#   - jekyll-avatar
-#   - jekyll-mentions
+plugins:
+  - jemoji
+  - jekyll-avatar
+  - jekyll-mentions
 
 exclude:
   - Makefile
