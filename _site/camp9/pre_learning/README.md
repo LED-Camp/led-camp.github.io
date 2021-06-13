@@ -1,6 +1,10 @@
 # 事前学習一覧
 source: `{{ page.path }}`
 
+## サイトマップ
+{% include list.liquid all=true %}
+
+<!-- 
 ## チームビルディングの理論と実践&合意形成
 1. [はじめに](0_teambuilding/0_team_intro.md)
 2. [自己紹介ワーク](0_teambuilding/1_team_introwork.md)
@@ -14,4 +18,4 @@ source: `{{ page.path }}`
 1. [はじめに](1_scrum/0_scrum_intro.md)
 2. [Scrumとは](1_scrum/1_scrum_overview.md)
 3. [Scrumを用いたチーム開発](1_scrum/2_scrum_howto.md)
-4. [例を用いたScrumの実践](1_scrum/3_scrum_example.md)
+4. [例を用いたScrumの実践](1_scrum/3_scrum_example.md) -->
