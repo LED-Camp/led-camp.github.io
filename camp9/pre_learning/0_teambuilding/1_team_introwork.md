@@ -2,9 +2,9 @@
 source: `{{ page.path }}`
 
 「チームビルディング」セッション中に「自己紹介ワーク」を実施します。このため、LED-Camp 開始までに「四象限自己紹介」シートに記入してください。「四象限自己紹介」シートのテンプレートは以下から取得してください。
-
+<!--
 [https://swest.toppers.jp/LED-Camp/report/camp7/camp7document/](https://swest.toppers.jp/LED-Camp/report/camp7/camp7document/)
-
+-->
 
 ## 「四象限自己紹介」の説明
 「四象限自己紹介」とは何でしょうか。一般的な自己紹介と何が違うのでしょうか。
