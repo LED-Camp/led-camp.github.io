@@ -28,15 +28,15 @@ git clone https://github.com/LED-Camp/LED-Camp9-check.git
    <p><img src="./imgs/choose_m2t_setting.png"/></p>
 6. Add をクリックし、設定の名前を入力します(画像ではLEDTankと入力しています)。
     <p><img src="./imgs/m2t_setting_window.png"/></p>
-6. Template Dir には`templates/`フォルダを選択します。
-7. Destination Path には`controllers/main_sim/`フォルダを選択します。
-8. Add templateを3回クリックし、以下のように設定します。
+7. Template Dir には`templates/`フォルダを選択します。
+8. Destination Path には`controllers/main_sim/`フォルダを選択します。
+9. Add templateを3回クリックし、以下のように設定します。
     - default / hpp / hpp.template
     - default / cpp / cpp.template
     - Global / main_sim.cpp / main_sim.template
     <p><img src="./imgs/configuration.png"/></p>
 
-9. ツール->m2t->Generateをクリックし、コードが自動生成されたことを確認します。
+10. ツール->m2t->Generateをクリックし、コードが自動生成されたことを確認します。
     <p><img src="./imgs/code_generated.png"/></p>
 
 正常にコード生成が行われない場合は、プラグインの設定を再度ご確認ください。

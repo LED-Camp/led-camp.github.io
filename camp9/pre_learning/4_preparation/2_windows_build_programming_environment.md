@@ -47,4 +47,3 @@ git config --global user.name xxx@gmail.com
 [こちら](https://discord.com/download)よりWindows版のDiscordをDownloadし、インストールをお願いいたします。
 
 当日はビデオONの状態にすることもありますので、**必ずスピーカ、マイク、カメラをご用意** の上、動作確認を事前に行って頂きますようお願い致します。
-

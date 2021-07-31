@@ -67,7 +67,6 @@ InstalledDir: /Library/Developer/CommandLineTools/usr/bin
 brew install gcc
 ```
 
-
 ## make
 
 C++プログラムをWebots上でビルドする際には`make`を必要とします。
@@ -131,4 +130,3 @@ git config --global user.name xxx@gmail.com
 [こちら](https://discord.com/download)よりMac版のDiscordをDownloadし、インストールをお願いいたします。
 
 当日はビデオONの状態にすることもありますので、**必ずスピーカ、マイク、カメラをご用意** の上、動作確認を事前に行って頂きますようお願い致します。
-
