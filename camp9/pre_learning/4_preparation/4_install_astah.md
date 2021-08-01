@@ -17,7 +17,7 @@ astah エンジニアリングパックでは、LED-Camp で使用する astah p
 
 1. メール添付のライセンス zip ファイルを展開します。
 2. astah を起動します(Windowsの方は**管理者で起動**してください)。
-3. ヘルプ -> ライセンス管理 と進みます。
+3. ヘルプ -> ライセンス設定 と進みます。
     <p><img src="./imgs/config_license.png"/></p>
 4. ライセンスキー設定 を選択します。
     <p><img src="./imgs/license_key.png"/></p>
