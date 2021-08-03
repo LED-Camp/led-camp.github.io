@@ -4,9 +4,9 @@ Webots はオープンソースの3Dロボットシミュレータです。 LED-
 
 ※画面は Mac のものです。
 
-1. [こちら](https://cyberbotics.com/)より、Webotsをダウンロードします。
+1. <a href="https://cyberbotics.com/" target="_blank" rel="noopener noreferrer">こちら</a>より、Webotsをダウンロードします。
 2. インストーラを起動し、画面に従ってインストールを進めます。
-3. Webotsを起動します。
+3. Webotsを起動します。初回起動際には`Webots Guided Tour`が出ますが、Closeを押して無視してください。
 4. サンプルプロジェクトを開いてみましょう。File -> Open Sample Worldと進みます。
     <p><img src="./imgs/sample_world0.png"/></p>
 5. samples -> demos -> moon.wbtを選択してOKを押します。

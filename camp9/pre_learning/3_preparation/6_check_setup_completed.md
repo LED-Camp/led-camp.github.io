@@ -1,23 +1,26 @@
 # 動作確認
-ここでは確認用のファイル一式をダウンロードし、正しくセットアップが行われたかどうかの確認を行います。以下画面は Mac OS のものを載せていますが基本的にWindowsでも同じです。
+ここでは確認用のファイル一式をダウンロードし、正しくセットアップが行われたかどうかの確認を行います。以下画面は Mac OS のものを載せていますが基本的に Windows でも同じです。
 
 
 ##  リポジトリのダウンロード
-1. Windowsの方はGit Bash、 Macの方はターミナルを起動して作業用のフォルダを用意します。
+1. Windows の方は Git Bash、 Mac の方はターミナルを起動して作業用のフォルダを用意します。
 
 ```sh
 mkdir ~/workspace
 cd ~/workspace
 ```
 
-2. 作業用フォルダに移動したらgithubより、動作確認用のファイル一式を取得します。
+2. 作業用フォルダに移動したら githubより、動作確認用のファイル一式を取得します。
 
 ```sh
 git clone https://github.com/LED-Camp/LED-Camp9-check.git
 ```
+### うまくgitが使えない方
+<a href="https://github.com/LED-Camp/LED-Camp9-check" target="_blank" rel="noopener noreferrer">こちら</a>より zip ファイルをダウンロードできますので、`Download ZIP` をクリックしてダウンロードしてください。
+<p><img src="./imgs/download_zip.png"/></p>
 
-## astah でサンプルモデルからコードを自動生成する
-1. astah を起動します
+## astah\* でサンプルモデルからコードを自動生成する
+1. astah\* を起動します
 2. ファイル->プロジェクトを開く を選択します。
     <p><img src="./imgs/open_project.png"/></p>
 3. `astah/experimental.asta`を選択し、プロジェクトを開きます。
@@ -46,13 +49,15 @@ git clone https://github.com/LED-Camp/LED-Camp9-check.git
 2. File->Open Worldより`worlds/competition.wbt`を選択します。
     <p><img src="./imgs/open_world.png"/></p>
     <p><img src="./imgs/choose_world.png"/></p>
-3. 右のエディタ
+3. 右のテキストエディタ部分には本資料に沿って進めて頂いている場合、前章で開いた`moon.wbt`のソースコードが表示されているかと思います。上部のファイルを開くマーク(Open an exsisting text file.)をクリックし、`controller/main_sim/Makefile`を選択します。
+    <p><img src="./imgs/open_an_existing_text_file.png"/></p>
 4. 歯車のマークよりコードのビルドを行います。
     <p><img src="./imgs/build.png"/></p>
-5. ビルドが成功したらシミュレーションを実行します(ダイアログが出たらResetをクリックします)。
+5. ビルドが成功したら3Dグラフィックの画面上部の再生ボタンを押して、シミュレーションを実行します(ダイアログが出たらResetをクリックします)。
     <p><img src="./imgs/reset.png"/></p>
     <p><img src="./imgs/run_simuration.png"/></p>
 6. 一度3Dグラフィックの画面をクリックし、W/A/S/Dを押すことでロボットが動作することを確認します。
+    ※キーを1回押しても複数回反応することがあるので、その際はキーを押し込む時間を短くしてください。
 
 # 最後に
 お疲れ様でした。これでLED-Camp当日に必要なセットアップは全て完了となります。
