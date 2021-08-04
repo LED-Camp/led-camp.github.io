@@ -5,7 +5,7 @@ astah\* 上で作図したモデルから実際のプログラムに自動変換
 
 ## astah\* professional のインストール
 
-1. <a href="https://astah.change-vision.com/ja/download.html#professional" target="_blank" rel="noopener noreferrer">こちら</a>より`astah* professional`をダウンロードしてください。
+1. <a href="https://astah.change-vision.com/ja/download.html#professional" target="_blank" rel="noopener noreferrer">こちら</a>より**astah\* professional**をダウンロードしてください。
 2. ダウンロードしたインストーラを起動して、画面に従ってインストールを完了させてください。
 
 ## ライセンスの適用

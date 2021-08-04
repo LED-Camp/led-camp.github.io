@@ -4,16 +4,19 @@
 
 ##  リポジトリのダウンロード
 1. Windows の方は Git Bash、 Mac の方はターミナルを起動して作業用のフォルダを用意します。
+
 ```sh
 mkdir ~/workspace
 cd ~/workspace
 ```
+
 2. 作業用フォルダに移動したら githubより、動作確認用のファイル一式を取得します。
+
 ```sh
 git clone https://github.com/LED-Camp/LED-Camp9-check.git
 ```
 ### うまくgitが使えない方
-<a href="https://github.com/LED-Camp/LED-Camp9-check" target="_blank" rel="noopener noreferrer">こちら</a>より zip ファイルをダウンロードできますので、`Download ZIP` をクリックしてダウンロードしてください。
+<a href="https://github.com/LED-Camp/LED-Camp9-check" target="_blank" rel="noopener noreferrer">こちら</a>より zip ファイルをダウンロードできますので、**Download ZIP** をクリックしてダウンロードしてください。
 <p><img src="./imgs/download_zip.png"/></p>
 
 ## astah\* でサンプルモデルからコードを自動生成する
@@ -35,6 +38,7 @@ git clone https://github.com/LED-Camp/LED-Camp9-check.git
     - default / cpp / cpp.template
     - Global / main_sim.cpp / main_sim.template
     <p><img src="./imgs/configuration.png"/></p>
+
 10. ツール->m2t->Generateをクリックし、コードが自動生成されたことを確認します。
     <p><img src="./imgs/code_generated.png"/></p>
 
@@ -53,7 +57,6 @@ git clone https://github.com/LED-Camp/LED-Camp9-check.git
     <p><img src="./imgs/reset.png"/></p>
     <p><img src="./imgs/run_simuration.png"/></p>
 6. 一度3Dグラフィックの画面をクリックし、W/A/S/Dを押すことでロボットが動作することを確認します。
-    
     ※キーを1回押しても複数回反応することがあるので、その際はキーを押し込む時間を短くしてください。
 
 # 最後に
