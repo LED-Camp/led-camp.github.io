@@ -13,7 +13,7 @@ gitの操作に不慣れな方は GoogleDrive でも共有の場を設けます�
 ### git for Windows
 既にお使いの**git**クライアントがあればスキップしてください。
 
-1. <a href="http://git-scm.com/" target="_blank" rel="noopener noreferrer">こちら</a>より、git for windows** のインストーラをダウンロードします。
+1. <a href="http://git-scm.com/" target="_blank" rel="noopener noreferrer">こちら</a>より、**git for windows** のインストーラをダウンロードします。
     <p><img src="./imgs/git_for_windows_download.png"/></p>
 2. インストーラを起動し、画面に従いインストールを進めます。
     - 全てデフォルトのまま next を押してください。

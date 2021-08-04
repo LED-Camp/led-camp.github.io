@@ -99,7 +99,7 @@ brew install git
 ※プロキシの設定が必要となるPCでは git クライアント(git コマンド)自体にも設定が必要となる場合がございます。この後の事前学習で git を使用しますが、プロキシの設定が解決できない場合でも代替手段をご紹介しますのでその際はそちらをご参考ください。
 
 ### github
-すでにgithubアカウントをお持ちの方はスキップしてください。
+すでに**github**アカウントをお持ちの方はスキップしてください。
 
 githubアカウントをお持ちでない方は<a href="https://github.co.jp/" target="_blank" rel="noopener noreferrer">こちら</a>より、アカウントの作成(サインアップ)をお願い致します。無料のアカウントで十分です。
 
@@ -119,13 +119,13 @@ git config --global user.name xxx@gmail.com
 ```
 
 ## Zoom
-当日の講義は Zoom を用いて行います。
+当日の講義は **Zoom**を用いて行います。
 
 <a href="https://zoom.us/download" target="_blank" rel="noopener noreferrer">こちら</a>より Mac 版の Zoom クライアントをダウンロードし、インストールをお願い致します。
 
 当日はビデオ ON の状態にすることもありますので、**必ずスピーカ、マイク、カメラをご用意** の上、動作確認を事前に行って頂きますようお願い致します。
 ## Discord
-当日の開発実習は Discord を用いて行います。
+当日の開発実習は**Discord**を用いて行います。
 
 <a href="https://discord.com/download" target="_blank" rel="noopener noreferrer">こちら</a>よりMac版のDiscordをDownloadし、インストールをお願いいたします。
 
