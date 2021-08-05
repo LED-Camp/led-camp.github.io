@@ -39,4 +39,4 @@ LED-Campでは多くの「合意形成しなければならないシーン」が
 
 回答はこちらからお願いします。
 
-[合意形成回答フォーム](https://docs.google.com/forms/d/e/1FAIpQLSf9im_DdWHdPShN6dkkrrQsxE2swvC1iTbpm1eK4tqpLOpmuw/viewform?usp=sf_link)
+[合意形成回答フォーム](https://docs.google.com/forms/d/e/1FAIpQLSf9im_DdWHdPShN6dkkrrQsxE2swvC1iTbpm1eK4tqpLOpmuw/viewform?usp=sf_link){:target="_blank"}

@@ -35,4 +35,4 @@
 
 [四象限自己紹介シート](https://swest.toppers.jp/LED-Camp/wp-content/uploads/2019/07/%E5%9B%9B%E8%B1%A1%E9%99%90%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B%E3%82%B7%E3%83%BC%E3%83%88%E9%9B%9B%E5%BD%A2.xls)
 
-[合意形成回答フォーム](https://docs.google.com/forms/d/e/1FAIpQLSf9im_DdWHdPShN6dkkrrQsxE2swvC1iTbpm1eK4tqpLOpmuw/viewform?usp=sf_link)
+[合意形成回答フォーム](https://docs.google.com/forms/d/e/1FAIpQLSf9im_DdWHdPShN6dkkrrQsxE2swvC1iTbpm1eK4tqpLOpmuw/viewform?usp=sf_link){:target="_blank"}
