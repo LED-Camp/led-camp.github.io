@@ -129,6 +129,8 @@ git config --global user.name xxx@gmail.com
 
 <a href="https://discord.com/download" target="_blank" rel="noopener noreferrer">こちら</a>よりMac版のDiscordをDownloadし、インストールをお願いいたします。
 
+※ 事前学習資料公開のお知らせ でインストール済みであればスキップしてください。
+
 当日はビデオONの状態にすることもありますので、**必ずスピーカ、マイク、カメラをご用意** の上、動作確認を事前に行って頂きますようお願い致します。
 
 ## テキストエディタ(任意)

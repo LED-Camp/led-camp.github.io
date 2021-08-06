@@ -52,6 +52,8 @@ git config --global user.name xxx@gmail.com
 
 <a href="https://discord.com/download" target="_blank" rel="noopener noreferrer">こちら</a>より Windows 版の Discordクライアント をダウンロードし、インストールをお願い致します。
 
+※ 事前学習資料公開のお知らせ でインストール済みであればスキップしてください。
+
 当日はビデオONの状態にすることもありますので、**必ずスピーカ、マイク、カメラをご用意** の上、動作確認を事前に行って頂きますようお願い致します。
 ## テキストエディタ(任意)
 基本的にテキストエディタがなくても実習は行っていただけますが、ソースコードを読む際にはテキストエディタがあると便利です。LED-Camp 実行委員も使用している **VSCode** を紹介致します。
