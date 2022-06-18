@@ -1,7 +1,7 @@
 title: LED-Camp学習コンテンツ
 description: LED-Campの学習コンテンツページ
 
-theme: jekyll-rtd-theme
+remote_theme: rundocs/jekyll-rtd-theme
 
 # debug:
 #   compress: true
