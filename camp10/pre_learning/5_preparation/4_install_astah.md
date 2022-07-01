@@ -1,7 +1,12 @@
-# astah\* のセットアップ
+# astah\* のセットアップ  <!-- omit in toc -->
 astah\* とは様々な UML を簡単に作図できるツールです。
 astah\* 上で作図したモデルから実際のプログラムに自動変換することもできます(プラグインが必要)。
 以下 OS に依存しない箇所は Mac OS の画像を載せています。
+
+- [astah\* professional のインストール](#astah-professional-のインストール)
+- [ライセンスの適用](#ライセンスの適用)
+- [m2t プラグインを astah\* にインストール](#m2t-プラグインを-astah-にインストール)
+  - [Windows の方](#windows-の方)
 
 ## astah\* professional のインストール
 
