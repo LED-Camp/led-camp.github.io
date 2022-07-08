@@ -8,6 +8,7 @@
   - [git for Windows](#git-for-windows)
   - [github](#github)
 - [Zoom](#zoom)
+- [Discord](#discord)
 - [テキストエディタ(任意)](#テキストエディタ任意)
 
 ※お使いの PC が会社のものである場合などで、事前にプロキシの設定が必要の場合は、ご自身で設定の上、進めて頂きますようお願い致します。\
@@ -50,11 +51,18 @@ git config --global user.name xxx@gmail.com
 ```
 
 ## Zoom
-当日の講義は**Zoom**を用いて行います。
+最終日のSWEST参加セッションは**Zoom**を用いて行います。
 
 <a href="https://zoom.us/download" target="_blank" rel="noopener noreferrer">こちら</a>より Windows 版の Zoomクライアント をダウンロードし、インストールをお願い致します。
 
 当日はビデオONの状態にすることもありますので、**必ずスピーカ、マイク、カメラをご用意** の上、動作確認を事前に行って頂きますようお願い致します。
+
+## Discord
+主にLED-Camp10前日までのコミュニケーションツールとして使用します。
+
+<a href="https://discord.com/download" target="_blank" rel="noopener noreferrer">こちら</a>よりWindows 版の Discordクライアント をダウンロードし、インストールをお願い致します。
+
+参加者同士や実行委員の交流、事前学習や環境構築のフォローの場として活用します。
 
 ## テキストエディタ(任意)
 基本的にテキストエディタがなくても実習は行っていただけますが、ソースコードを読む際にはテキストエディタがあると便利です。LED-Camp 実行委員も使用している **VSCode** を紹介致します。
