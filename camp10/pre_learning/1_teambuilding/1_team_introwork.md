@@ -110,7 +110,7 @@
                 <li style="margin-top: 0.5em">ひとに何かを教えることが好きだから</li>
                 <li style="margin-top: 0.5em">みんなでものづくりをする楽しさを伝えたかったから</li>
                 <li style="margin-top: 0.5em">これからのキャリア、技術以外にも、大切なことがあることを伝えたかったから</li>
-                <li style="margin-top: 0.5em">色んなひとに会い、刺激を受け、自分も成長できる機会にしたいから</li>
+                <li style="margin-top: 0.5em">色んなひとに出会い、刺激を受け、自分も成長できる機会にしたいから</li>
                 </ul>
             </td>
             <td>
