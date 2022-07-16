@@ -2,7 +2,7 @@
 **Webots**はオープンソースの3Dロボットシミュレータです。 LED-Campではこちらを用いて、プログラムをビルド, 実行することによってロボットの動作検証を行います。
 当日は作成したプログラムをWebots上で動かして、競技会を行います。
 
-※画面は Mac のものです。
+※画面は Windows環境 のものです。
 
 1. <a href="https://cyberbotics.com/" target="_blank" rel="noopener noreferrer">こちら</a>より、Webotsをダウンロードします。
 2. インストーラを起動し、画面に従ってインストールを進めます。
