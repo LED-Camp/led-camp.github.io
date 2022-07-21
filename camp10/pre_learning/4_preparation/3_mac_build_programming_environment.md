@@ -1,6 +1,17 @@
-# (Mac OS) 実習環境の構築
-このセクションでは実習を円滑に行って頂くためのツール群のインストールを行います。
-Mac OS では予め基本的なツールはインストールされているので、もし入っていない場合はご参考いただけると幸いです。
+# (Mac OS) 実習環境の構築 <!-- omit in toc -->
+このセクションでは実習に必要なツールのインストール方法を説明します。
+
+お使いのPCに以下のツールがインストールされていない場合は、ご用意をお願いします。
+- [ターミナル](#ターミナル)
+- [Homebrew](#homebrew)
+- [C++ コンパイラ](#c-コンパイラ)
+- [make](#make)
+- [git/github](#gitgithub)
+  - [git](#git)
+  - [github](#github)
+- [Zoom](#zoom)
+- [Discord](#discord)
+- [テキストエディタ(任意)](#テキストエディタ任意)
 
 ※お使いの PC が会社のものである場合などで、事前にプロキシの設定が必要の場合は、ご自身で設定の上、進めて頂きますようお願い致します。
 ## ターミナル
@@ -75,7 +86,7 @@ brew install make
 ```
 
 ## git/github
-LED-Camp9で使用するソースコードはgithubで共有します。
+LED-Camp10で使用するソースコードはgithubで共有します。
 また、チームメンバとコードの共有を行う手段としてもお使い頂けます。
 
 gitの操作に不慣れな方はGoogleDriveでも共有の場を設けますので、そちらをお使い頂くことも可能ですが、当日チームの方針によってはgitを使用する場合もあるかと思いますので、極力セットアップは行っておきましょう。
@@ -103,7 +114,7 @@ brew install git
 
 githubアカウントをお持ちでない方は<a href="https://github.co.jp/" target="_blank" rel="noopener noreferrer">こちら</a>より、アカウントの作成(サインアップ)をお願い致します。無料のアカウントで十分です。
 
-### 作成したgithubアカウントをローカルに設定する
+### 作成したgithubアカウントをローカルに設定する  <!-- omit in toc -->
 gitコマンドにgithubアカウントを設定しておきましょう。
 
 ```
@@ -119,19 +130,18 @@ git config --global user.name xxx@gmail.com
 ```
 
 ## Zoom
-当日の講義は **Zoom**を用いて行います。
+最終日のSWEST参加セッションは**Zoom**を用いて行います。
 
 <a href="https://zoom.us/download" target="_blank" rel="noopener noreferrer">こちら</a>より Mac 版の Zoom クライアントをダウンロードし、インストールをお願い致します。
 
 当日はビデオ ON の状態にすることもありますので、**必ずスピーカ、マイク、カメラをご用意** の上、動作確認を事前に行って頂きますようお願い致します。
+
 ## Discord
-当日の開発実習は**Discord**を用いて行います。
+主にLED-Camp10前日までのコミュニケーションツールとして使用します。
 
-<a href="https://discord.com/download" target="_blank" rel="noopener noreferrer">こちら</a>よりMac版のDiscordをDownloadし、インストールをお願いいたします。
+<a href="https://discord.com/download" target="_blank" rel="noopener noreferrer">こちら</a>よりWindows 版の Discordクライアント をダウンロードし、インストールをお願い致します。
 
-※ 事前学習資料公開のお知らせ でインストール済みであればスキップしてください。
-
-当日はビデオONの状態にすることもありますので、**必ずスピーカ、マイク、カメラをご用意** の上、動作確認を事前に行って頂きますようお願い致します。
+参加者同士や実行委員の交流、事前学習や環境構築のフォローの場として活用します。
 
 ## テキストエディタ(任意)
 

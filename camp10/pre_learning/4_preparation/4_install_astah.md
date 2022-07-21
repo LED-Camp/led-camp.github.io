@@ -1,7 +1,12 @@
-# astah\* のセットアップ
+# astah\* のセットアップ  <!-- omit in toc -->
 astah\* とは様々な UML を簡単に作図できるツールです。
 astah\* 上で作図したモデルから実際のプログラムに自動変換することもできます(プラグインが必要)。
 以下 OS に依存しない箇所は Mac OS の画像を載せています。
+
+- [astah\* professional のインストール](#astah-professional-のインストール)
+- [ライセンスの適用](#ライセンスの適用)
+- [m2t プラグインを astah\* にインストール](#m2t-プラグインを-astah-にインストール)
+  - [Windows の方](#windows-の方)
 
 ## astah\* professional のインストール
 
@@ -43,9 +48,8 @@ m2t は astah\* のプラグインの一種であり、設計したクラス図�
 
 1. <a href="https://github.com/s-hosoai/astahm2t/releases/tag/v1.5.2" target="_blank" rel="noopener noreferrer">こちら</a>より jar ファイルをダウンロードします。バージョンは1.5.2を使用します。
 2. プラグイン->インストール済みプラグイン を選択します。
-    <p><img src="./imgs/plugin.png"/></p>
-3. インストールをクリックします。
-    <p><img src="./imgs/install_plugin.png"/></p>
-4. ダウンロードしたjarファイルを選択します。
-5. astah\* を再起動します。
-6. ツールに m2t が現れていれば完了です。
+    <p><img src="./imgs/m2t_setting.png"/></p>
+3. インストールをクリックし、ダウンロードしたjarファイルを選択します。
+    <p><img src="./imgs/m2t_install.png"/></p>
+3. astah\* を再起動します。
+4. 「ツール」タブに m2t が現れていれば完了です。

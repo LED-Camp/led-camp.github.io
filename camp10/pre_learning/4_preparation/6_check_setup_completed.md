@@ -1,6 +1,10 @@
-# 動作確認
+# 動作確認 <!-- omit in toc -->
 ここでは確認用のファイル一式をダウンロードし、正しくセットアップが行われたかどうかの確認を行います。以下画面は Mac OS のものを載せていますが基本的に Windows でも同じです。
 
+- [リポジトリのダウンロード](#リポジトリのダウンロード)
+  - [うまくgitが使えない方](#うまくgitが使えない方)
+- [astah\* でサンプルモデルからコードを自動生成する → 画像はCamp10参加者展開用のリポジトリを作成してから差し替えます](#astah-でサンプルモデルからコードを自動生成する--画像はcamp10参加者展開用のリポジトリを作成してから差し替えます)
+- [Webotsでコードを動かす](#webotsでコードを動かす)
 
 ##  リポジトリのダウンロード
 1. Windows の方は Git Bash、 Mac の方はターミナルを起動して作業用のフォルダを用意します。
@@ -13,13 +17,13 @@ cd ~/workspace
 2. 作業用フォルダに移動したら githubより、動作確認用のファイル一式を取得します。
 
 ```sh
-git clone https://github.com/LED-Camp/LED-Camp9-check.git
+git clone https://github.com/LED-Camp/LED-Camp9-check.git → Camp10用のURLに変更予定 
 ```
 ### うまくgitが使えない方
-<a href="https://github.com/LED-Camp/LED-Camp9-check" target="_blank" rel="noopener noreferrer">こちら</a>より zip ファイルをダウンロードできますので、**Download ZIP** をクリックしてダウンロードしてください。
+<a href="https://github.com/LED-Camp/LED-Camp9-check" target="_blank" rel="noopener noreferrer">こちら</a>より zip ファイルをダウンロードできますので、**Download ZIP** をクリックしてダウンロードしてください。→ リンク先と画像をCamp10用に変更予定
 <p><img src="./imgs/download_zip.png"/></p>
 
-## astah\* でサンプルモデルからコードを自動生成する
+## astah\* でサンプルモデルからコードを自動生成する → 画像はCamp10参加者展開用のリポジトリを作成してから差し替えます
 1. astah\* を起動します
 2. ファイル->プロジェクトを開く を選択します。
     <p><img src="./imgs/open_project.png"/></p>
@@ -59,5 +63,5 @@ git clone https://github.com/LED-Camp/LED-Camp9-check.git
 6. 一度3Dグラフィックの画面をクリックし、W/A/S/Dを押すことでロボットが動作することを確認します。
     ※キーを1回押しても複数回反応することがあるので、その際はキーを押し込む時間を短くしてください。
 
-# 最後に
-お疲れ様でした。これでLED-Camp当日に必要なセットアップは全て完了となります。
+# 最後に <!-- omit in toc -->
+お疲れ様でした。これでLED-Camp10当日に必要なセットアップは全て完了となります。
