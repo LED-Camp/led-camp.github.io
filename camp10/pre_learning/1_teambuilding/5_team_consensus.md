@@ -20,10 +20,10 @@ LED-Campでは多くの「合意形成しなければならないシーン」が
 <br><br>
 
 ## 合意形成に関する設問【宿題】
-合意形成に関する設問に解答し、8/28までに提出してください。
+合意形成に関する設問に解答し、8/27までに提出してください。
 参考にした文献などの情報がある場合は、何を参考にしたか、明らかにしてください。（文字数に含みません。）
 
-- webページの場合、URLと閲覧日。(例、https://xxx.xx/xxxx (2018/8/xx))
+- webページの場合、URLと閲覧日。(例、https://xxx.xx/xxxx (2022/8/xx))
 - 書籍の場合、書名と著者。(例、○○入門 (○野))
 - 論文の場合、著者名と発行年。(例、○野(201x))
 
@@ -39,4 +39,4 @@ LED-Campでは多くの「合意形成しなければならないシーン」が
 
 回答はこちらからお願いします。
 
-[合意形成回答フォーム](https://docs.google.com/forms/d/e/1FAIpQLSf9im_DdWHdPShN6dkkrrQsxE2swvC1iTbpm1eK4tqpLOpmuw/viewform?usp=sf_link){:target="_blank"}
+[合意形成回答フォーム](https://docs.google.com/forms/d/e/1FAIpQLSd1En157aoyrvzEXOCZTkPYlpAIAZj28Ztxct1WnnaPve_1ng/viewform?usp=sf_link)
