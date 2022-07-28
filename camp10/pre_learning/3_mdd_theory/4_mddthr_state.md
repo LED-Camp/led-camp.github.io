@@ -35,7 +35,7 @@
 
 <img src="https://cdn.visual-paradigm.com/guide/uml/state-machine-diagram-vs-activity-diagram/01-state-machine-diagram-vs-activity-diagram.png">
 
-参考：http://agile.blog.jp/agile_scrum/14997628.html
+参考：[http://agile.blog.jp/agile_scrum/14997628.html](http://agile.blog.jp/agile_scrum/14997628.html)
 
 ステートマシン図をモデリングする際は以下の点に注意すると良いでしょう。
 
