@@ -1,9 +1,9 @@
 # 動作確認 <!-- omit in toc -->
-ここでは確認用のファイル一式をダウンロードし、正しくセットアップが行われたかどうかの確認を行います。以下画面は Mac OS のものを載せていますが基本的に Windows でも同じです。
+ここでは確認用のファイル一式をダウンロードし、正しくセットアップが行われたかどうかの確認を行います。（画像はWindows環境です）
 
 - [リポジトリのダウンロード](#リポジトリのダウンロード)
   - [うまくgitが使えない方](#うまくgitが使えない方)
-- [astah\* でサンプルモデルからコードを自動生成する → 画像はCamp10参加者展開用のリポジトリを作成してから差し替えます](#astah-でサンプルモデルからコードを自動生成する--画像はcamp10参加者展開用のリポジトリを作成してから差し替えます)
+- [astah\* でサンプルモデルからコードを自動生成する](#astah-でサンプルモデルからコードを自動生成する)
 - [Webotsでコードを動かす](#webotsでコードを動かす)
 
 ##  リポジトリのダウンロード
@@ -17,17 +17,17 @@ cd ~/workspace
 2. 作業用フォルダに移動したら githubより、動作確認用のファイル一式を取得します。
 
 ```sh
-git clone https://github.com/LED-Camp/LED-Camp9-check.git → Camp10用のURLに変更予定 
+git clone https://github.com/LED-Camp/LED-Camp-check.git 
 ```
 ### うまくgitが使えない方
-<a href="https://github.com/LED-Camp/LED-Camp9-check" target="_blank" rel="noopener noreferrer">こちら</a>より zip ファイルをダウンロードできますので、**Download ZIP** をクリックしてダウンロードしてください。→ リンク先と画像をCamp10用に変更予定
+<a href="https://github.com/LED-Camp/LED-Camp-check.git" target="_blank" rel="noopener noreferrer">こちら</a>より zip ファイルをダウンロードできますので、**Download ZIP** をクリックしてダウンロードしてください。
 <p><img src="./imgs/download_zip.png"/></p>
 
-## astah\* でサンプルモデルからコードを自動生成する → 画像はCamp10参加者展開用のリポジトリを作成してから差し替えます
+## astah\* でサンプルモデルからコードを自動生成する
 1. astah\* を起動します
 2. ファイル->プロジェクトを開く を選択します。
     <p><img src="./imgs/open_project.png"/></p>
-3. `astah/experimental.asta`を選択し、プロジェクトを開きます。
+3. `astah/experimental.asta`を選択し、プロジェクトを開きます。（git clone したリポジトリに含まれています）
     <p><img src="./imgs/choose_astah_file.png"/></p>
 4. 左側の構造ツリーからステートマシン図をダブルクリックし、状態遷移図が表示されることを確認します。
     <p><img src="./imgs/click_state_machine.png"/></p>
