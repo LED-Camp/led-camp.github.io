@@ -9,6 +9,5 @@ LED-Camp10 では以下を推奨環境としております。予めご準備の
   - CPU：Intel Core i7 第8世代相当 以上
   - メモリ：16GB以上
 ```
-推奨スペックの詳細についてはLED-Campホームページの参加申込ページにも記載しております。\
-https://swest.toppers.jp/LED-Camp/regist/ （<実習の開発環境について> 参照）
+推奨スペックの詳細については<a href="https://swest.toppers.jp/LED-Camp/regist/" target="_blank" rel="noopener noreferrer">LED-Camp参加申込ページ</a>の<実習の開発環境について> にも記載しております。
 
